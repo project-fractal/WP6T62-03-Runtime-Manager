@@ -28,16 +28,9 @@ class Home_Strategy(Strategy):
                 instruction = instruction.split(" ")
                 print(instruction)
                 if instruction[0] == "TO":
-                    del instruction[0]
-                    for i in instruction:
-                        print(i)
-                        if i[0:3] == "com":
-                            component_id = i[-1]
-                        elif i[0:3] == "end":
-                            endpoint_id = i[-1]
-                        else:
-                            print("[Home_Strategy] - Istruction "+i+" not recognized")
-
+                    component_id = instruction[1]
+                    endpoint_id = instruction[2]
+                    
                     #   REST configuration
                     protocol = components[str(component_id)]["config"]["protocol"]
                     host = components[str(component_id)]["config"]["ip"]
