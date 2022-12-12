@@ -35,7 +35,9 @@ This is a test procedure for the MQTT interface.
 
 1. Launch *rm_mqtt.py* from the folder *runtime_manager*, in order to subscribe to the topic indicated in the configuration file.
 
-2. Launch the script *test_mqtt_publisher.py* to publish a test message on the topic where the Runtime Manager is subscribed.
+2. Edit broker ip and port info inside the file *test/test_mqtt_publisher.py*.
+
+3. Launch the script *test_mqtt_publisher.py* to publish a test message on the topic where the Runtime Manager is subscribed.
 
 **REST API TEST**
 
