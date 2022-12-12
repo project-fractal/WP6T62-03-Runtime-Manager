@@ -1,8 +1,8 @@
 import paho.mqtt.client as paho
 import json
 
-broker="192.168.20.6"
-port=1993
+broker= #broker ip here
+port= #broker port here
 
 def on_publish(client,userdata,result):             #create function for callback
     print("data published \n")
