@@ -28,7 +28,8 @@ class Request_Maker:
         url = '%s://%s:%s/%s' % (protocol, host, port, endpoint)
         try:
                 print("[Request_Maker] - trying POST " + str(payload) + " to " + url)
-                r = requests.post(url, json=payload)
+                headers={'Content-Type': 'application/json'}
+                r = requests.post(url, data=payload, headers=headers)
                 print("[Request_Maker] - POST request done!")
                 return r.text
         except requests.exceptions.ConnectionError:
