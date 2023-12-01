@@ -79,7 +79,7 @@ Each instruction is to be written on a separate line; each data flow process beg
 ##  Acknowledgement
 This project has received funding from the Key Digital Technologies Joint Undertaking (KDT JU) under grant agreement No 877056. The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Spain, Italy, Austria, Germany, Finland, Switzerland.
 
-![FRACTAL Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/jHmgbEb2QJoe8WY?x=1912&y=617&a=true&file=fractal_logo_2.png&scalingup=0)
+![FRACTAL Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/jqaHZTG5ieyS4xX?file=/&fileId=1208408&x=1920&y=1080&a=true&etag=f339888adc7a9149963bf21d8fabab7f)
 
-![EU Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/pessWNfeqBfYi3o?x=1912&y=617&a=true&file=eu_logo.png&scalingup=0)
-![KDT Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/yd7FgKisNgtLPTy?x=1912&y=617&a=true&file=kdt_logo.png&scalingup=0)
+![EU Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/3Xz4Tiq9jm2xTzt?file=/&fileId=1208407&x=1920&y=1080&a=true&etag=7f7fe46ee26aba9a9097f3857702fc41)
+![KDT Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/z5MCSrykS8E4Xto?file=/&fileId=1208445&x=1920&y=1080&a=true&etag=86d6a566f3458222fa01a3debde34a8e)  
